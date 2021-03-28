@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "node index.js ",
+    "optimize": "svgo -i svg/graph.svg -o - | scour > dist/graph.svg",
+    "start": "cd dist && http-server -c-1 --cors",
+    "echo": "echo $1"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "ngraph.fromdot": "^6.0.1",
+    "streaming-svg-parser": "^1.0.0",
+    "svgo": "^2.2.2"
+  }
+}

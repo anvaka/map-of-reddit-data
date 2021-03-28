@@ -1,0 +1,5 @@
+digraph Add {
+  "fieldplay" -> "math" ["weight"=1]
+  "fieldplay" -> "learnmath" ["weight"=1]
+  "fieldplay" -> "Physics" ["weight"=1]
+}
