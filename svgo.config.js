@@ -14,7 +14,7 @@ module.exports = {
     {
       name: 'removeAttrs',
       params: {
-        attrs: ['fill-rule', 'stroke', 'stroke-width']
+        attrs: ['fill-rule', 'stroke', 'stroke-width', 'font-family']
       }
     } 
   ],

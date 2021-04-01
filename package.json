@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "build": "node index.js ",
-    "optimize": "svgo -i svg/graph.svg -o - | scour > dist/graph.svg",
+    "build": "node index.js && svgo -i svg/graph.svg -o - | scour > dist/graph.svg",
     "start": "cd dist && http-server -c-1 --cors",
     "echo": "echo $1"
   },
