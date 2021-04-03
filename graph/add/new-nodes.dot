@@ -3,4 +3,5 @@ digraph Add {
   "fieldplay" -> "learnmath" ["weight"=1]
   "fieldplay" -> "Physics" ["weight"=1]
   "livecounting" -> "counting" ["weight"=1]
+  "Kiwix" -> "DataHoarder" ["weight"=1]
 }
