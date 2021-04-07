@@ -4,4 +4,6 @@ digraph Add {
   "fieldplay" -> "Physics" ["weight"=1]
   "livecounting" -> "counting" ["weight"=1]
   "Kiwix" -> "DataHoarder" ["weight"=1]
+  "ohtaigi" -> "shanghainese" ["weight"=17]
+  "ohtaigi" -> "China_News" ["weight"=6]
 }
