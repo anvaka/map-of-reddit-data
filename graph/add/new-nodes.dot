@@ -6,4 +6,6 @@ digraph Add {
   "Kiwix" -> "DataHoarder" ["weight"=1]
   "ohtaigi" -> "shanghainese" ["weight"=17]
   "ohtaigi" -> "China_News" ["weight"=6]
+  "FortSaskatchewan" -> "Edmonton" ["weight"=1]
+  "FortSaskatchewan" -> "alberta" ["weight"=1]
 }
