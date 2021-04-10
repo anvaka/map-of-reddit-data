@@ -8,4 +8,7 @@ digraph Add {
   "ohtaigi" -> "China_News" ["weight"=6]
   "FortSaskatchewan" -> "Edmonton" ["weight"=1]
   "FortSaskatchewan" -> "alberta" ["weight"=1]
+  "Comtruise" -> "synthwave" ["weight"=1]
+  "Comtruise" -> "newretrowave" ["weight"=1]
+  "Comtruise" -> "chillwave" ["weight"=1]
 }
