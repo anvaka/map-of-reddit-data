@@ -4352,6 +4352,9 @@
    <circle id="iPodHacks" cx="246870" cy="371799" r="10.92"/>
    <circle id="Hisense" cx="235669" cy="375867" r="23.854"/>
    <circle id="Safari" cx="243991" cy="375842" r="24.885"/>
+   <circle id="Alfred" cx="244033" cy="376041" r="14.779"/>
+   <circle id="nativemacapps" cx="244136" cy="376035" r="7.914"/>
+   <circle id="Automator" cx="244135" cy="376079" r="7.914"/>
    <circle id="applescript" cx="244156" cy="376565" r="20.622"/>
    <circle id="ShotoniPhone" cx="245048" cy="376272" r="22.136"/>
    <circle id="HelpMeFindThis" cx="244642" cy="370408" r="27.668"/>

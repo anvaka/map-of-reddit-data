@@ -11,4 +11,11 @@ digraph Add {
   "Comtruise" -> "synthwave" ["weight"=1]
   "Comtruise" -> "newretrowave" ["weight"=1]
   "Comtruise" -> "chillwave" ["weight"=1]
+  "Alfred" -> "macapps" ["weight"=10]
+  "Alfred" -> "nativemacapps" ["weight"=8]
+  "Alfred" -> "Automator" ["weight"=10]
+  "Alfred" -> "applescript" ["weight"=7]
+  "Alfred" -> "thingsapp" ["weight"=7]
+  "Automator" -> "applescript" ["weight"=10]
+  "nativemacapps" -> "macprogramming" ["weight"=10]
 }
